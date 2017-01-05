@@ -6,11 +6,14 @@ Changes include.
 
 Line 914 to 915 in reprap.htm are replaced with -
 
+```html
+
 <pre>
   <button class="btn btn-warning disabled" id="btn_pause" title="Pause current print (M25)"><span class="glyphicon glyphicon-pause"></span> <span>Pause Print</span></button><BR><BR>
 
   <button class="btn btn-success" id="btn_printanother" title="Print Another"><span class="glyphicon glyphicon-play"></span> <span>Print Another</span></button><BR><BR>
 </pre>
+```
 
 in dwc.js at line 3790 insert the new function.
 
